@@ -1,0 +1,8 @@
+D:\CodeWithHarry\C# Learning\Console App\Typecasting Practice\Typecasting Practice\Typecasting Practice\bin\Debug\Typecasting Practice.exe.config
+D:\CodeWithHarry\C# Learning\Console App\Typecasting Practice\Typecasting Practice\Typecasting Practice\bin\Debug\Typecasting Practice.exe
+D:\CodeWithHarry\C# Learning\Console App\Typecasting Practice\Typecasting Practice\Typecasting Practice\bin\Debug\Typecasting Practice.pdb
+D:\CodeWithHarry\C# Learning\Console App\Typecasting Practice\Typecasting Practice\Typecasting Practice\obj\Debug\Typecasting Practice.csproj.AssemblyReference.cache
+D:\CodeWithHarry\C# Learning\Console App\Typecasting Practice\Typecasting Practice\Typecasting Practice\obj\Debug\Typecasting Practice.csproj.SuggestedBindingRedirects.cache
+D:\CodeWithHarry\C# Learning\Console App\Typecasting Practice\Typecasting Practice\Typecasting Practice\obj\Debug\Typecasting Practice.csproj.CoreCompileInputs.cache
+D:\CodeWithHarry\C# Learning\Console App\Typecasting Practice\Typecasting Practice\Typecasting Practice\obj\Debug\Typecasting Practice.exe
+D:\CodeWithHarry\C# Learning\Console App\Typecasting Practice\Typecasting Practice\Typecasting Practice\obj\Debug\Typecasting Practice.pdb
